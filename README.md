@@ -1,6 +1,5 @@
-- 👋 Hi, I’m antisidee
-- 👀 I’m interested in developing in the FiveM Community.
-- 🌱 I’m currently learning lua and vue.js
+- 👋 Hi, I’m Bo Ek
+- 🌱 I’m currently learning lua and C#
 - 📫 How to reach me Bo Ek#2253 on discord.
 <!---
 FM-Dev-Macke/FM-Dev-Macke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
